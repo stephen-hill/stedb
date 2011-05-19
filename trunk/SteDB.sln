@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.7043
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteDB", "SteDB.csproj", "{68234A85-F8EE-4233-9769-4754B8ACB29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68234A85-F8EE-4233-9769-4754B8ACB29D}.Debug|x86.Build.0 = Debug|x86
+		{68234A85-F8EE-4233-9769-4754B8ACB29D}.Debug|x86.ActiveCfg = Debug|x86
+		{68234A85-F8EE-4233-9769-4754B8ACB29D}.Release|x86.Build.0 = Release|x86
+		{68234A85-F8EE-4233-9769-4754B8ACB29D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
